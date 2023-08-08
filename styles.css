@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="styles.css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Page</title>
+    
+</head>
+<body>
+    <header style="title"></header>
+        <div class="banner">
+        </div>
+        <div  class="Love">
+            <h1>Pieying Moore</h1>
+            <img src="./Images/wedding.jpg" alt="">
+            <h2 class="ILoveYou">I Love You</h2>
+            <br>
+            <h3>Love this About You</h3>
+
+            <ul>
+                <li>Food</li>
+                <li>Faith</li>
+                <li>Massages</li>
+                <li>Intimacy</li>
+                <li>Love our daughters</li>
+            </ul>
+        </div>
+        <div class="hover-container">
+           <p class="hidden-text">For real though, show me some love</p>
+        </div>
+        </body>
+</html>
